@@ -1,4 +1,8 @@
-
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    /* CSS */
+    
+  }
 .countdown {
     display: flex;
     justify-content: space-around;
