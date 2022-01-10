@@ -15,10 +15,12 @@ const countdown = () => {
     const textMinute = Math.floor((gap % hour) / minute);
     const textSecond = Math.floor((gap % minute) / second);
 
-    document.querySelector('.day').innerText = textDay;
-    document.querySelector('.hour').innerText = textHour;
-    document.querySelector('.minute').innerText = textMinute;
-    document.querySelector('.second').innerText = textSecond;
+    document.querySelector('.day').innerText = formatTime(textDay);
+    document.querySelector('.hour').innerText = formatTime(textHour);
+    document.querySelector('.minute').innerText = formatTime(textMinute);
+    document.querySelector('.second').innerText = formatTime(textSecond);
 };
-
+function formatTime(time) {
+    return time < 10 ? (`0${time}`) : time;
+}
 setInterval(countdown, 1000);
