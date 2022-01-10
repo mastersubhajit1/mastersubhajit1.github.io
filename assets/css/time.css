@@ -1,0 +1,14 @@
+h3 {
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    font-weight: 10;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.day,.hour,.minute,.second {
+    font-size: 3rem;
+}
