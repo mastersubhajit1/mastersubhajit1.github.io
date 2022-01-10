@@ -7,6 +7,7 @@
     display: flex;
     justify-content: space-around;
     text-align: center;
+    flex-wrap: wrap;
 }
 .day,.hour,.minute,.second {
     font-size: 1.5rem;
