@@ -455,18 +455,28 @@
             <div data-w-id="ebcbde33-b5ba-2226-0b90-93bcc3b71eef" class="home-3-subscribe-box">
                 <div class="home-3-form-block w-form">
                     <form id="email-form" name="email-form" data-name="Email Form" class="home-3-form"><input
-                            type="text" class="home-3-form-field w-input" maxlength="256" name="name-2"
-                            data-name="Name 2" placeholder="Enter your e-mail" id="name-2" /><input type="submit"
+                            type="text" class="home-3-form-field w-input" maxlength="256" name="Email"
+                            data-name="Email" placeholder="Enter your e-mail address" id="Email" /><input type="submit"
                             value="Subscribe Now" data-wait="Please wait..."
                             class="button home-3-form-button w-button" /></form>
                     <div class="success-message w-form-done">
-                        <div class="text-block _16-px full-white">Thank you! Your submission has been received!</div>
+                        <div class="text-block _16-px black">Thank you! Your submission has been received!</div>
                     </div>
                     <div class="error-message w-form-fail">
-                        <div class="text-block _16-px black">Oops! Something went wrong while submitting the form.</div>
+                        <div class="text-block _16-px full-white">Thank you! Your submission has been received!</div>
                     </div>
                 </div>
             </div>
+            <script>
+                const scriptURL = "https://script.google.com/macros/s/AKfycbxwUD4d3ncXpoRyYvhYoX0OB0YxIZQa3oJpqtbm_xtz6tP6-68/exec";
+                const form = document.forms["email-form"]
+                form.addEventListener("submit", (e) => {
+                    e.preventDefault();
+                    fetch(scriptURL, { method: "POST", body: new FormData(form) })
+                    .then(response => $("#form-alerts").html("<div class='alert alert-success'>Thank you! Your submission has been received!</div>"))
+                    .catch(error => $("#form-alerts").html("<div class='alert alert-danger'>Oops! Something went wrong while submitting the form.</div>"))
+                });
+            </script>
             <div data-w-id="ebcbde33-b5ba-2226-0b90-93bcc3b71efa" class="home-3-arrow"><img
                     src="https://assets.website-files.com/6067703d73e522c2abe4d13a/606c9a22e31e8fbf4953bd5c_Group%20922-min.png"
                     loading="lazy" alt="" class="image contain" /></div>
