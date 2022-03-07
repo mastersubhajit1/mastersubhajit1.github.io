@@ -27327,7 +27327,7 @@
                 (function (e) {
                   var t = window.document.createElement("iframe");
                   (t.src =
-                    "https://webflow.com/site/third-party-cookie-check.html"),
+                    "#site/third-party-cookie-check.html"),
                     (t.style.display = "none"),
                     (t.sandbox = "allow-scripts allow-same-origin");
                   var n = function n(r) {
@@ -50145,12 +50145,12 @@
               function () {
                 !(function () {
                   (i = e("html").attr("data-wf-site")),
-                    (c = "https://webflow.com/api/v1/form/" + i),
+                    (c = "#api/v1/form/" + i),
                     f &&
-                      c.indexOf("https://webflow.com") >= 0 &&
+                      c.indexOf("https://startups.courses") >= 0 &&
                       (c = c.replace(
-                        "https://webflow.com",
-                        "http://formdata.webflow.com"
+                        "https://startups.courses",
+                        "http://startups.courses"
                       ));
                   if (
                     ((u = "".concat(c, "/signFile")),
