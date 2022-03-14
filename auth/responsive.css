@@ -1,0 +1,2308 @@
+@media screen and (max-width:1800px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 1140px;
+    }
+    .slider-box h1 {
+      font-size: 51px;
+    }
+    .slider-box p {
+      color: #fff;
+      font-size: 30px;
+      margin: 16px 0 0 0;
+    }
+    .down-arrow {
+      margin-top: 11%;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3, .parer-box h4 {
+      font-size: 61px;
+    }
+    .eligibility_criteria ul li {
+      width: 46%;
+      min-height: 448px;
+    }
+    .who-can-sec h4 {
+      font-size: 55px;
+      line-height: 55px;
+      padding: 141px 0 20px 0;
+    }
+    .content-bx p {
+      color: #fff;
+      font-size: 23px;
+      line-height: 31px;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+      width: 144px;
+      height: 415px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      margin: 0;
+      padding: 141px 0 0 44px;
+      list-style: none;
+      color: #fff;
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .parer-box h4 {
+      margin: 17px 0 0 0;
+      padding: 0 0 36px 0;
+    }
+    .icont-whtite img {
+      width: 100%;
+    }
+    .icont-whtite li {
+      height: 143px;
+      width: 143px;
+    }
+    .icont-whtite li {
+      font-size: 16px;
+    }
+    .icont-whtite {
+      margin: 40px 0 0 0;
+      padding: 0;
+      list-style: none;
+      padding-bottom: 34px;
+    }
+    .maint-boxdetal {
+      min-height: 637px;
+    }
+    .smal0hed {
+      font-weight: 600;
+      font-size: 18px;
+    }
+    .parer-box .owl-carousel .owl-item .maint-boxdetal img {
+      max-height: 55px;
+      box-shadow: none;
+      margin: 14px 0 8px;
+      width: auto;
+      height: auto;
+    }
+    .maint-boxdetal {
+      min-height: 485px;
+    }
+    .icont-whtite li::after {
+      content: "";
+      width: 47px;
+      height: 2px;
+      border-bottom: dotted 2px #fff;
+      position: absolute;
+      top: 50%;
+      margin: 0 0 0 71px;
+    }
+    .button-apra-a {
+      color: #fff;
+      font-size: 28px;
+      line-height: 38px;
+      padding-left: 311px;
+      padding-top: 17px;
+    }
+    .team-main-box ul li {
+      margin: 50px 55px 0 0;
+      min-height: 385px;
+    }
+    .images-box-maon {
+      height: 210px;
+      width: 210px;
+      padding: 15px;
+    }
+    .cir-img {
+      height: 180px;
+      width: 180px;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link {
+      padding: 6px 5px;
+    }
+    .dropdown-toggle {
+      font-size: 10px;
+    }
+    .dropdown.dropdown-submenu {
+      margin-top: 0;
+    }
+    /**** new index page css ***/
+    .slider-logo li {
+      width: 119px;
+      padding: 0 9px;
+    }
+    .slider-box .slider-logo li img {
+      height: auto;
+    }
+    .slider-box .slider-logo li:nth-child(4) {
+      padding-top: 14px;
+    }
+    .black_box li {
+      width: 332px;
+      height: 222px;
+      margin: 0 55px 52px 0;
+      font-size: 22px;
+      padding: 58px 17px;
+    }
+    .index-ver-two .icont-whtite li {
+      font-size: 17px;
+      margin: 0 41px 0 0;
+      height: 147px;
+      width: 147px;
+    }
+    .index-ver-two .desktop-img {
+      max-width: max-content;
+      width: 100%;
+      margin: 0 auto;
+      position: relative;
+      z-index: 2;
+    }
+    .index-ver-two .bottom-bg-img img {
+      width: 314px;
+    }
+    .index-ver-two .eligibility_criteria .bg-img {
+      display: block;
+      margin: -150px 0 0 0;
+    }
+    .index-ver-two .eligibility_criteria .bg-img img {
+      width: 100%;
+    }
+    .index-ver-two .button-apra-a {
+      color: #fff;
+      ;
+      padding-left: 422px;
+    }
+    .index-ver-two .who-can-sec h4 {
+      font-size: 53px;
+      line-height: 69px;
+    }
+    .index-ver-two .com-ul li {
+      min-height: 586px;
+    }
+    .right-txt-lwl {
+      width: 72%;
+    }
+    .index-ver-two .white-bg {
+      height: 414px;
+    }
+    .index-ver-two .button-apra-a {
+      color: #fff;
+      padding-left: 0;
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .slider-box h1 {
+      font-weight: 900;
+      line-height: 49px;
+    }
+    .slider-logo.show-mobile {
+      text-align: center;
+      margin-top: 0;
+    }
+    .slider-logo.show-mobile li {
+      width: 209px;
+      padding: 0 15px;
+      margin: 0 0 15px 0;
+      text-align: center;
+      float: none;
+    }
+    .nav-on .owl-nav .owl-prev {
+      float: left;
+      margin: 0 0 0 -57px;
+    }
+    .navbar-nav .nav-item .nav-link {
+      font-size: 10px;
+    }
+    .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: 0 12px;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    .sponseorspage .team-main-box ul.upcomingul li {
+      width: 46%;
+    }
+    .leftbox-ig {
+      width: 43%;
+    }
+    .leftrx-up {
+      width: 50%;
+      min-height: 223px;
+    }
+    .topicbpx {
+      text-align: left;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 22px;
+    }
+    .deingbox {
+      text-align: left;
+      font-weight: 400;
+      display: block;
+      margin: 14px 0 0 0;
+      font-size: 14px;
+    }
+    .lwftimbg {
+      width: 332px;
+    }
+    .lwftimbg img {
+      width: 100%;
+    }
+    .deatils_box {
+      padding-top: 151px;
+    }
+    .righinfobox {
+      width: 31%;
+    }
+    .discripbox {
+      width: 65%;
+    }
+    .dropdown-toggle, .navbar-nav .nav-item .nav-link {
+      font-size: 13px;
+      font-weight: 400;
+    }
+    .dropdown-toggle {
+      margin: 6px 6px 0;
+    }
+    .detailspage .parer-box h4 {
+      margin: 0 auto -39px;
+    }
+    .contobx {
+      width: 58%;
+      margin: 44px 0 14px 44px;
+    }
+    .boxcont {
+      width: 31%;
+    }
+    .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4) {
+      margin: 6px 3px;
+      font-size: 13px;
+    }
+    .headtop {
+      font-size: 65px;
+      line-height: 65px;
+    }
+    .resulteobx li.twolink, .ytbcresult .resulteobx li.twolink:nth-child(4n+4) {
+      padding: 10px 0 0 0;
+    }
+    .boldtex {
+      font-size: 35px;
+      line-height: 41px;
+    }
+    .normatext {
+      font-size: 36px;
+    }
+    .ytbcresult .resulteobx li.twolink, .ytbcresult .resulteobx li.twolink:nth-child(4n+4), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3) {
+      margin: 0 3px;
+      padding: 18px 0 0;
+    }
+    .ytbcresult .resulteobx li.twolink, .ytbcresult .resulteobx li.twolink:nth-child(4n+4) {
+      padding: 12px 0 0 0;
+    }
+  
+  
+  .logmimgov img {
+      width: 132px;
+  }
+  }
+  @media screen and (max-width:1600px) {
+    /*	.container, .container-lg, .container-md, .container-sm, .container-xl {
+  
+      max-width: 974px;
+  
+  }*/
+    .slider-box h1 {
+      font-size: 43px;
+    }
+    .slider-box p {
+      color: #fff;
+      font-size: 25px;
+      margin: 16px 0 0 0;
+    }
+    .down-arrow {
+      margin-top: 9%;
+    }
+    .height-school-sec h2 {
+      font-size: 55px;
+    }
+    .content-bx p {
+      color: #fff;
+      font-size: 25px;
+      line-height: 32px;
+    }
+    .height-school-sec .container {
+      padding-top: 70px;
+    }
+    .first-young {
+      padding: 80px 0;
+    }
+    .first-young p {
+      font-size: 42px;
+    }
+    .who-can-sec h4 {
+      font-size: 68px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      margin: 0;
+      padding: 256px 0 0 44px;
+      font-size: 32px;
+      line-height: 43px;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+      height: 466px;
+      width: 100px;
+    }
+    .button-apra-a {
+      font-size: 31px;
+      padding-left: 229px;
+      margin-top: 0;
+      line-height: 43px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      line-height: 53px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 209px 0 0 44px;
+    }
+    .top-bg-img img {
+      width: auto;
+      height: 100%;
+    }
+    .content-bx p {
+      color: #fff;
+      font-size: 20px;
+      line-height: 30px;
+    }
+    .content-bx {
+      margin: 0;
+    }
+    .content-bx .btn-white {
+      float: left;
+      margin: 23px auto 0;
+    }
+    .first-young p {
+      font-size: 35px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 209px 0 0 40px;
+      line-height: 44px;
+      font-size: 31px;
+    }
+    .who-can-sec h4, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 119px 0 20px 0;
+    }
+    .who-can-sec h4 {
+      font-size: 56px;
+    }
+    .button-apra-a {
+      font-size: 31px;
+      padding-left: 218px;
+      margin-top: 0;
+    }
+    .who-can-sec {
+      padding-bottom: 95px;
+    }
+    .eligibility_criteria ul li p {
+      font-size: 23px;
+      line-height: 29px;
+      padding: 0;
+    }
+    .bottom-bg-img img {
+      width: 378px;
+    }
+    .eligibility_criteria {
+      padding: 50px 0 64px;
+    }
+    .eligibility_criteria h3 {
+      padding: 0 0 40px 0;
+    }
+    .how_main {
+      padding: 0 0 60px;
+    }
+    .how_main h3 {
+      padding: 0 0 53px 0;
+    }
+    .video-main-box {
+      position: relative;
+      text-align: center;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .video-main-box img {
+      width: 100%;
+    }
+    .video-main-box a img:last-child {
+      top: 42%;
+      width: 104px;
+    }
+    .content-bx p {
+      color: #fff;
+      font-size: 23px;
+      line-height: 31px;
+    }
+    .first-young p {
+      font-size: 31px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      font-size: 37px;
+      line-height: 53px;
+    }
+    .who-can-sec h4 {
+      font-size: 53px;
+      line-height: 63px;
+    }
+    .how_main .top-bg-video {
+      width: 37%;
+    }
+    .how_main .top-bg-video img {
+      width: 100%;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      font-size: 31px;
+      line-height: 42px;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link {
+      padding: 6px 10px;
+      font-size: 12px;
+    }
+    .rigstre-btn {
+      margin: -8px 0 0 29px;
+    }
+    /**** new index page css ***/
+    .index-ver-two .down-arrow {
+      margin-top: 34px;
+    }
+    .index-ver-two .first-young .btn-white {
+      margin: 62px auto 0 auto;
+    }
+    .index-ver-two .eligibility_criteria ul {
+      width: 821px;
+    }
+    .owl-carousel.owl-drag .owl-item .tem-item-box .men-img {
+      height: 150px;
+      width: 150px;
+    }
+    .tem-item-box p {
+      font-size: 13px;
+    }
+    .slider-logo li {
+      width: 117px;
+      padding: 0 11px;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link, .dropdown-toggle {
+      padding: 6px;
+      font-size: 12px;
+    }
+    .dropdown-toggle {
+      margin: 0px 6px 0;
+    }
+  }
+  @media screen and (max-width:1366px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 912px;
+    }
+    .who-can-sec h4 {
+      font-size: 62px;
+      line-height: 55px;
+    }
+    .button-apra-a {
+      line-height: 28px;
+      font-size: 21px;
+      padding-left: 188px;
+      margin-top: 0;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 209px 0 0 40px;
+      line-height: 28px;
+      font-size: 21px;
+    }
+    .first-young p {
+      font-size: 33px;
+      line-height: 42px;
+    }
+    .eligibility_criteria ul li {
+      width: 45%;
+    }
+    .eligibility_criteria ul li p {
+      font-size: 20px;
+      line-height: 24px;
+      padding: 0;
+    }
+    .eligibility_criteria ul li {
+      min-height: 395px;
+    }
+    .how-content-bx h4 {
+      font-size: 38px;
+      line-height: 53px;
+      margin: 50px 0 0 0;
+    }
+    .how-content-bx p {
+      color: #fff;
+      font-size: 35px;
+      line-height: 46px;
+      padding-top: 8px;
+    }
+    .menu-box ul li a, .addres-box-gr p, .contact-us-bx p {
+      font-size: 16px;
+    }
+    .contact-us-bx p {
+      font-size: 10px;
+    }
+    .parer-box h4 {
+      margin: 45px 0 0 0;
+      padding: 0 0 36px 0;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link {
+      padding: 6px 6px;
+    }
+    .icont-whtite {
+      margin: 40px 0 0 0;
+      padding: 0;
+      list-style: none;
+      padding-bottom: 34px;
+      text-align: center;
+    }
+    .icont-whtite li {
+      font-size: 16px;
+      margin: 0;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding-left: 40px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4 {
+      padding-top: 130px;
+    }
+    .com-ul li {
+      margin-right: 13px;
+      padding: 15px;
+      min-height: 494px;
+    }
+    .com-ul li .heading-blu {
+      font-size: 17px;
+      margin: 25px 0 23px 0;
+    }
+    .maint-boxdetal {
+      min-height: 587px;
+    }
+    .parer-box {
+      padding-top: 45px;
+    }
+    .why_participate {
+      padding: 0 0 100px;
+    }
+    /*** all heading font size ***/
+    .slider-box h1, .height-school-sec h2, .first-young .para-bx-tt, .who-can-sec h4, .eligibility_criteria h3, .how_main h3, .how_main h3, .parer-box h4, .blue-head, .eligibility_criteria h3 {
+      font-size: 40px;
+      line-height: 40px;
+    }
+    .content-bx p, .first-young p {
+      font-size: 18px;
+      line-height: 24px;
+    }
+    .team-main-box ul li {
+      margin: 100px 105px 0 0;
+    }
+    .team-main-box ul li {
+      margin: 100px 50px 0 0;
+    }
+    .team-main-box ul li, .team-main-box ul li:nth-child(3n+3) {
+      margin: 50px 5px 0 25px;
+    }
+    .team-main-box .apply-content ul li, .team-main-box .apply-content ul li:nth-child(3n+3) {
+      margin: 0 0 19px 0;
+      display: block;
+      width: 100%;
+    }
+    .images-box-maon {
+      height: 170px;
+      width: 170px;
+      padding: 10px;
+    }
+    .cir-img {
+      height: 150px;
+      width: 150px;
+    }
+    .team-main-box ul li {
+      min-height: 375px;
+    }
+    .eligibility_criteria ul li p span i {
+      font-size: 32px;
+    }
+    .com-ul li p {
+      font-size: 12px;
+      line-height: 18px;
+    }
+    .header-classic .container, .header-classic .container-lg, .header-classic .container-md, .header-classic .container-sm, .header-classic .container-xl {
+      max-width: 90%;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link {
+      padding: 6px 10px;
+    }
+    .name-persion {
+      font-size: 17px;
+      font-weight: 600;
+      margin: 14px 0 0px 0;
+    }
+    /**** new index page css ***/
+    .slider-box .container {
+      top: 25%;
+    }
+    .slider-box .slider-logo li img {
+      height: auto;
+      width: 100%;
+    }
+    .slider-logo li {
+      width: 94px;
+      padding: 0 5px;
+    }
+    .black_box li {
+      width: 265px;
+      height: 163px;
+      margin: 0 24px 30px 0;
+      font-size: 16px;
+      padding: 40px 14px 33px;
+    }
+    .index-ver-two .icont-whtite li {
+      font-size: 17px;
+      margin: 26px 28px 0 0;
+      height: auto;
+      width: 147px;
+    }
+    .index-ver-two .how_main h3, .index-ver-two .parer-box h4, .index-ver-two .blue-head, .index-ver-two .eligibility_criteria h3, .index-ver-two .first-young .para-bx-tt, .index-ver-two .project_team h4, .index-ver-two .height-school-sec h2, .most_section h3 {
+      font-size: 38px;
+    }
+    .index-ver-two .eligibility_criteria ul li {
+      min-height: 360px;
+      width: 38%;
+    }
+    .index-ver-two .bottom-bg-img img {
+      width: 253px;
+    }
+    .index-ver-two .who-can-sec h4 {
+      font-size: 39px;
+      line-height: 48px;
+    }
+    .index-ver-two .white-bg {
+      width: 120px;
+      height: 343px;
+    }
+    .index-ver-two .button-apra-a {
+      color: #fff;
+    }
+    .index-ver-two .parer-box .owl-carousel .owl-item img {
+      max-width: 100%;
+      width: auto;
+      height: 63px;
+    }
+    .right-txt-lwl {
+      width: 64%;
+    }
+    .index-ver-two .icont-whtite li {
+      font-size: 17px;
+      margin: 26px 14px 0 0;
+      height: auto;
+      width: 131px;
+    }
+    .icont-whtite li::after {
+      content: "";
+      width: 47px;
+      height: 2px;
+      border-bottom: dotted 2px #fff;
+      position: absolute;
+      top: 50%;
+      margin: 0 0 0 71px;
+    }
+    .icont-whtite li::after {
+      content: "";
+      width: 21px;
+      height: 2px;
+      border-bottom: dotted 2px #fff;
+      position: absolute;
+      top: 36%;
+      margin: 0 0 0 66px;
+    }
+    .index-ver-two .desktop-img {
+      max-width: 1367px;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .black_box li {
+      width: 265px;
+      height: 136px;
+      margin: 0 24px 30px 0;
+      font-size: 16px;
+      padding: 31px 14px 33px;
+    }
+    .nav-on .owl-nav {
+      position: absolute;
+      width: 100%;
+      top: 22%;
+    }
+    .nav-on .owl-nav .owl-next {
+      margin: 0 -30px 0 0;
+    }
+    .sponseorspage .team-main-box ul.upcomingul li {
+      width: 46%;
+      margin: 10px;
+    }
+    .leftrx-up {
+      margin: 0 0 0 24px;
+    }
+    .hostpersr {
+      font-size: 15px;
+      margin: 7px 0 0 0;
+    }
+    .topicbpx {
+      text-align: left;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 19px;
+    }
+    .deingbox {
+      margin: 8px 0 0 0;
+      font-size: 13px;
+    }
+    .leftrx-up {
+      min-height: 213px;
+    }
+    .deatils_box {
+      padding-top: 93px;
+      width: 61%;
+    }
+    .heading-bgp {
+      font-size: 25px;
+      color: #fff;
+      padding: 12px 17px;
+      border-radius: 5px;
+    }
+    .discripbox {
+      width: 62%;
+    }
+    .righinfobox {
+      width: 35%;
+    }
+    .greenbox {
+      font-size: 16px;
+    }
+    .wordhead {
+      font-size: 20px;
+      font-weight: 600;
+      margin: 0 0 20px 0;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    .boxcont {
+      width: 30%;
+    }
+    .boxcont h5 span {
+      font-size: 16px;
+      line-height: 20px;
+    }
+    .ytbcresult .resulteobx li.twolink, .ytbcresult .resulteobx li.twolink:nth-child(4n+4), .ytbcresult .team-main-box ul li, .ytbcresult .team-main-box ul li:nth-child(3n+3) {
+      padding: 20px 0 0 0;
+      margin: 0 3px;
+    }
+    .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3) {
+      margin: 6px 3px;
+      font-size: 13px;
+      width: 23%;
+      display: inline-block;
+      vertical-align: middle;
+    }
+    .headtop {
+      font-size: 48px;
+      line-height: 50px;
+    }
+    .normatext {
+      font-size: 31px;
+    }
+    .boldtex {
+      font-size: 30px;
+      line-height: 33px;
+    }
+    .ytbcresult .resulteobx.final-result li, .ytbcresult .resulteobx.final-result li:nth-child(4n+4), .ytbcresult .team-main-box.final-result ul li:nth-child(3n+3), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3) {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  
+  .logmimgov img {
+      width: 105px;
+  
+  }}
+  @media screen and (max-width:1280px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 833px;
+    }
+    .down-arrow {
+      margin-top: 8%;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3 {
+      font-size: 50px;
+    }
+    .how-content-bx h4 {
+      font-size: 37px;
+      margin: 39px 0 0 0;
+    }
+    .how-content-bx p {
+      color: #fff;
+      font-size: 32px;
+      line-height: 40px;
+      padding-top: 3px;
+    }
+    .eligibility_criteria ul li p {
+      font-size: 21px;
+      line-height: 26px;
+      padding: 0;
+    }
+    .bottom-bg-img img {
+      width: 366px;
+    }
+    .how-content-bx h4 {
+      font-size: 39px;
+      margin: 40px 0 0 0;
+    }
+    .how-content-bx p {
+      color: #fff;
+      font-size: 35px;
+      line-height: 31px;
+      padding-top: 17px;
+    }
+    .content-bx p {
+      color: #fff;
+      font-size: 19px;
+      line-height: 27px;
+    }
+    .eligibility_criteria ul li {
+      width: 44%;
+    }
+    .eligibility_criteria ul li p {
+      font-size: 18px;
+      line-height: 19px;
+      padding: 0;
+    }
+    .bottom-bg-img img {
+      width: 353px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 209px 0 0 40px;
+      line-height: 45px;
+      font-size: 25px;
+    }
+    .button-apra-a {
+      font-size: 27px;
+      padding-left: 160px;
+      margin-top: 0;
+    }
+    .slider-box h1 {
+      font-size: 36px;
+    }
+    .slider-box p {
+      color: #fff;
+      font-size: 22px;
+      margin: 12px 0 0 0;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3 {
+      font-size: 42px;
+    }
+    .content-bx p {
+      color: #fff;
+      font-size: 18px;
+      line-height: 23px;
+    }
+    .first-young p {
+      font-size: 29px;
+      line-height: 36px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 153px 0 0 40px;
+      line-height: 41px;
+      font-size: 26px;
+    }
+    .who-can-sec h4 {
+      padding: 159px 0 20px 0;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+      height: 383px;
+      width: 100px;
+    }
+    .icont-whtite li {
+      margin: 0 10% 66px 0;
+    }
+    .icont-whtite li:nth-child(3n+3) {
+      margin-right: 14px;
+    }
+    .first-young p br {
+      display: none;
+    }
+    .icont-whtite {
+      padding-bottom: 0;
+    }
+    .eligibility_criteria ul li {
+      min-height: 406px;
+    }
+    .com-ul li {
+      margin-right: 13px;
+      padding: 16px;
+      min-height: 675px;
+      width: 31%;
+    }
+    .first-young .btn-white {
+      margin: 0 auto;
+    }
+    .team-main-box ul li, .team-main-box ul li:nth-child(3n+3) {
+      width: 21%;
+    }
+    .sponseorspage .team-main-box ul li, .sponseorspage .team-main-box ul li:nth-child(3n+3) {
+      width: 20%;
+    }
+    .team-main-box ul li {
+      min-height: 355px;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link {
+      padding: 6px 4px;
+      font-size: 11px;
+    }
+    /**** new index page css ***/
+    .slider-box .slider-logo li img {
+      height: auto;
+      width: 100%;
+    }
+    .slider-logo li {
+      width: 85px;
+      padding: 0 5px;
+    }
+    .slider-logo.show-mobile li {
+      width: 188px;
+    }
+    .slider-box .container {
+      top: 35%;
+    }
+    .black_box li {
+      width: 251px;
+      height: 150px;
+    }
+    .index-ver-two .icont-whtite li {
+      width: 183px;
+    }
+    .index-ver-two .bottom-bg-img img {
+      width: 218px;
+    }
+    .index-ver-two .eligibility_criteria ul li {
+      min-height: 289px;
+      width: 38%;
+    }
+    .index-ver-two .bottom-bg-img img {
+      margin-bottom: 62px;
+    }
+    .index-ver-two .button-apra-a {
+      color: #fff;
+      line-height: normal;
+    }
+    .index-ver-two .parer-box.wow {
+      padding: 0 0 42px;
+    }
+    .right-txt-lwl {
+      width: 61%;
+    }
+    .icont-whtite li::after {
+      display: none;
+    }
+    .index-ver-two .desktop-img {
+      max-width: 1280px;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .black_box li {
+      width: 250px;
+      height: 136px;
+      margin: 0 24px 30px 0;
+      font-size: 16px;
+      padding: 31px 14px 33px;
+    }
+    .nav-on .owl-nav .owl-next {
+      margin: 0 0 0 0;
+    }
+    .images-box-maon {
+      height: 150px;
+      width: 150px;
+      padding: 10px;
+    }
+    .cir-img {
+      height: 130px;
+      width: 130px;
+    }
+    .leftrx-up {
+      margin: 0 0 0 18px;
+    }
+    .lwftimbg {
+      width: 292px;
+    }
+    .dateandtive {
+      margin: 28px 0 0 0;
+    }
+    .deatils_box {
+      padding-top: 93px;
+      width: 56%;
+    }
+    .discripbox {
+      width: 100%;
+    }
+    .righinfobox {
+      width: 100%;
+      margin: 21px 0 0;
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link, .dropdown-toggle {
+      padding: 6px;
+      font-size: 11px;
+    }
+    .sponseorspage.workshoppage .team-main-box ul li, .sponseorspage.workshoppage .team-main-box ul li:nth-child(3n+3) {
+      width: 47%;
+    }
+    .boxcont {
+      min-height: 269px;
+    }
+    .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3), .ytbcresult .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3) {
+      width: 23%;
+    }
+    .ytbcresult .resulteobx.final-result li, .ytbcresult .resulteobx.final-result li:nth-child(4n+4), .ytbcresult .team-main-box.final-result ul li:nth-child(3n+3), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx.final-result li, .ytbcresult .resulteobx.final-result li:nth-child(4n+4), .ytbcresult .team-main-box ul.final-result li:nth-child(3n+3), .resulteobx .team-main-box ul.final-result li, .resulteobx .team-main-box ul.final-result li:nth-child(3n+3), .ytbcresult .team-main-box ul.final-result li, .resulteobx .team-main-box ul.final-result li:nth-child(3n+3), .ytbcresult .resulteobx.final-result li, .ytbcresult .resulteobx.final-result li:nth-child(4n+4), .ytbcresult .team-main-box ul.final-result li:nth-child(3n+3), .resulteobx .team-main-box ul.final-result li, .resulteobx .team-main-box ul.final-result li:nth-child(3n+3) {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  
+  .logmimgov img {
+      width: 95px;
+  }
+  }
+  @media screen and (max-width:1169px) {
+    .slider-box .container {
+      top: 26%;
+    }
+    .logo-box {
+      width: 100px;
+    }
+    .logo-box img {
+      width: 100%;
+    }
+    .maint-boxdetal {
+      min-height: 437px;
+    }
+    .team-main-box ul li, .team-main-box ul li:nth-child(3n+3) {
+      margin: 100px 22px 0;
+      width: 44%;
+    }
+    .team-main-box .apply-content ul li, .team-main-box .apply-content ul li:nth-child(3n+3) {
+      margin: 0 0 19px 0;
+      width: 100%;
+    }
+    /**** new index page css ***/
+    .index-ver-two .slider-box .container {
+      top: 27%;
+    }
+    .index-ver-two .btn-white {
+      margin: 20px auto 0;
+    }
+    .slider-logo {
+      margin: 15px 0 0 0;
+    }
+    .black_box li {
+      width: 232px;
+      height: 148px;
+      padding: 25px 14px 33px;
+    }
+    .index-ver-two .bottom-bg-img img {
+      width: 179px;
+    }
+    .index-ver-two .how_main h3, .index-ver-two .parer-box h4, .index-ver-two .blue-head, .index-ver-two .eligibility_criteria h3, .index-ver-two .first-young .para-bx-tt, .index-ver-two .project_team h4, .index-ver-two .height-school-sec h2, .most_section h3 {
+      font-size: 33px;
+    }
+    .index-ver-two .desktop-img {
+      max-width: 1170px;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .headtop {
+      font-size: 38px;
+      line-height: 42px;
+    }
+  }
+  @media screen and (max-width:991px) {
+    .slider-box h1 {
+      font-size: 30px;
+    }
+    .slider-box p {
+      font-size: 18px;
+      margin: 0;
+    }
+    .btn-white {
+      font-size: 16px;
+      padding: 4px 13px 2px;
+      border: 2px solid;
+      margin: 20px auto 0;
+    }
+    .down-arrow {
+      width: 40px;
+      height: 40px;
+      font-size: 20px;
+      line-height: 30px;
+      margin-top: 5%;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+      font-size: 30px;
+    }
+    .height-school-sec h2 {
+      margin: 0 0 35px 0;
+    }
+    .height-school-sec .sect-two {
+      width: 30%;
+    }
+    .first-young {
+      padding: 48px 0 22px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4 {
+      padding-top: 70px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li {
+      padding: 0 0 30px 40px;
+    }
+    .who-can-sec h4 {
+      line-height: 35px;
+    }
+    .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p {
+      font-size: 29px;
+      line-height: 36px;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+      height: 348px;
+      width: 67px;
+    }
+    .button-apra-a {
+      padding-left: 178px;
+      padding-top: 0;
+    }
+    .eligibility_criteria ul li {
+      display: block;
+      width: 100%;
+      clear: both;
+      float: none;
+      z-index: 999;
+      position: relative;
+      margin: 0 0 22px 0;
+    }
+    .bottom-bg-img {
+      position: absolute;
+      top: auto;
+      right: 0;
+      bottom: 0;
+    }
+    .eligibility_criteria {
+      padding: 0 0 64px;
+      position: relative;
+    }
+    .sticky {
+      padding: 0;
+      height: auto;
+      background: #000;
+    }
+    .header-classic {
+      z-index: 9999;
+    }
+    .navbar-dark .navbar-toggler .navbar-toggler-icon {
+      display: none;
+    }
+    .navbar-dark .navbar-toggler .navbar-toggler-icon:first-child {
+      display: block;
+    }
+    .navbar-toggler {
+      position: absolute;
+      right: 0;
+      padding-top: 12px;
+      top: 20px;
+      outline: none !important;
+      background: #00ffea;
+      background: -moz-linear-gradient(-45deg, #00ffea 0%, #00a2ff 100%);
+      background: -webkit-linear-gradient(-45deg, #00ffea 0%, #00a2ff 100%);
+      background: linear-gradient(135deg, #00ffea 0%, #00a2ff 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffea', endColorstr='#00a2ff', GradientType=1);
+    }
+    .rigstre-btn {
+      margin: 0 50px 0 0;
+    }
+    .navbar-collapse {
+      position: absolute;
+      width: 100%;
+      left: 0;
+      right: 0;
+      top: 81px;
+      background: #00ffea;
+      background: -moz-linear-gradient(-45deg, #00ffea 0%, #00a2ff 100%);
+      background: -webkit-linear-gradient(-45deg, #00ffea 0%, #00a2ff 100%);
+      background: linear-gradient(135deg, #00ffea 0%, #00a2ff 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffea', endColorstr='#00a2ff', GradientType=1);
+    }
+    .header-classic .navbar-dark .navbar-nav .nav-link {
+      padding: 12px 6px;
+      font-size: 16px;
+      border-bottom: solid 1px #737373;
+      color: #000;
+    }
+    .maint-boxdetal {
+      min-height: 480px;
+    }
+    .eligibility_criteria ul li {
+      min-height: auto;
+    }
+    .desktop-img {
+      display: none;
+    }
+    .mobile-img {
+      display: block;
+      width: 100%;
+      max-width: 800px;
+    }
+    /**** new index page css ***/
+    .slider-logo li {
+      width: 97px;
+      padding: 0 9px;
+    }
+    .black_box li, .black_box li:nth-child(3n+3) {
+      width: 44%;
+      height: 180px;
+      padding: 53px 14px 33px;
+      margin: 0 17px 30px;
+      display: inline-block;
+      float: none;
+    }
+    .index-ver-two .eligibility_criteria ul li {
+      width: 32%;
+      display: inline-block;
+      min-height: 352px;
+    }
+    .index-ver-two .button-apra-a {
+      line-height: normal;
+    }
+    #project_team, .global_ambassador {
+      width: 85%;
+      margin: 50px auto 0;
+    }
+    .right-txt-lwl {
+      width: 56%;
+    }
+    .contact-us-bx .email-conatct a {
+      color: #fff;
+      font-weight: 500;
+      word-break: break-all;
+    }
+    .index-ver-two .rigstre-btn {
+      margin: -99px 50px 0 0;
+    }
+    .index-ver-two .white-bg {
+      width: 111px;
+      height: 225px;
+    }
+    .index-ver-two .button-apra-a {}
+    index-ver-two .com-ul li {
+      min-height: auto;
+    }
+    .index-ver-two .why_participate {
+      padding: 60px 0 48px;
+    }
+    .left-img-lwl {
+      float: none;
+      margin: 0 0 10px 0;
+      width: 100%;
+      display: block;
+    }
+    .right-txt-lwl {
+      width: 100%;
+      border-left: none;
+      border-top: solid 2px #063049;
+      padding: 10px 0 0 0;
+    }
+    .index-ver-two .project_team {
+      padding: 47px 0 0;
+    }
+    .lwl-section {
+      width: 100%;
+      padding: 50px 0 25px;
+    }
+    .copy-right-text {
+      margin-top: 37px;
+    }
+    .index-ver-two .com-ul li {
+      min-height: auto;
+    }
+    .index-ver-two .button-apra-a {
+      font-size: 17px;
+      padding: 0 52px;
+    }
+    .index-ver-two .who-can-sec h4 {
+      font-size: 31px;
+      line-height: 38px;
+    }
+    .index-ver-two .sticky .rigstre-btn {
+      margin-top: 0;
+    }
+    .slider-logo.show-mobile li {
+      width: 168px;
+      padding: 0 15px;
+      margin: 0 0 15px 0;
+      text-align: center;
+      float: none;
+    }
+    #competition_partner {
+      width: 85%;
+      margin: 0 auto;
+    }
+    .nav-on .owl-nav .owl-next {
+      margin: 0 -53px 0 0;
+    }
+    .header-classic.sticky .rigstre-btn.howapply {
+      margin: 0 50px 0 15px;
+    }
+    .dropdown-toggle {
+      color: #000 !important;
+      font-size: 16px;
+      font-weight: 400;
+      padding: 10px 10px;
+      display: block;
+    }
+    .dropdown-menu {
+      background-color: #fff;
+    }
+    .navbar-nav .dropdown-menu {
+      margin: 0;
+      padding: 0;
+    }
+    .sponseorspage .team-main-box ul.upcomingul li {
+      width: 100%;
+      margin: 0 0 20px 0;
+    }
+    .headt-styewo {
+      font-size: 32px;
+    }
+    .topbiname {
+      font-size: 23px;
+      font-weight: 600;
+      margin: 0 0 20px 0;
+    }
+    .sponseorspage.workshoppage .team-main-box ul li, .sponseorspage.workshoppage .team-main-box ul li:nth-child(3n+3) {
+      width: 100%;
+    }
+    .contobx {
+      width: 54%;
+    }
+    .detailspage .parer-box h4 {
+      margin: 0 auto 20px;
+      line-height: 46px;
+      font-size: 25px;
+    }
+    .headtop {
+      font-size: 28px;
+      line-height: 34px;
+    }
+    .normatext {
+      font-size: 24px;
+      margin: 0;
+    }
+    .boldtex {
+      font-size: 22px;
+      line-height: 27px;
+      margin: 7px 0 0 0;
+    }
+    .ytbcresult .slider-top.sliver-vtow .container {
+      top: 28%;
+    }
+    .ytbcresult .resulteobx {
+      padding: 18px 18px 16px;
+    }
+    .ytbcresult .resulteobx.final-result li div {
+      display: block;
+      width: 100%;
+      padding: 5px 12px;
+    }
+    .ytbcresult .resulteobx.final-result li, .ytbcresult .resulteobx.final-result li:nth-child(4n+4), .ytbcresult .team-main-box.final-result ul li:nth-child(3n+3), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li.twolink, .ytbcresult .resulteobx li.twolink:nth-child(4n+4), .ytbcresult .team-main-box ul li, .team-main-box .resulteobx.final-result li:nth-child(3n+3) {
+      width: 100%;
+      padding: 12px 10px;
+      margin: 10px 0;
+    }
+    .ytbcresult .resulteobx.final-result li, .ytbcresult .resulteobx.final-result li:nth-child(4n+4), .ytbcresult .team-main-box.final-result ul li:nth-child(3n+3), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .resulteobx.final-result .team-main-box ul li, .resulteobx.final-result .team-main-box ul li:nth-child(3n+3) {
+      margin: 10px 0;
+    }
+    .ytbcresult .resulteobx.final-result li div {
+      font-size: 18px;
+    }
+  }
+  @media screen and (max-width:767px) {
+    .content-bx p {
+      color: #fff;
+      font-size: 16px;
+      line-height: 21px;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+      font-size: 25px;
+    }
+    .height-school-sec .container {
+      padding-top: 40px;
+    }
+    .height-school-sec h2 {
+      margin: 0 0 19px 0;
+    }
+    .height-school-sec {
+      padding: 0 0 40px 0;
+    }
+    .first-young {
+      padding: 35px 0 22px;
+      background: url(../images/third-seciton-bg.jpg) no-repeat center top;
+      background-size: cover;
+    }
+    .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p {
+      font-size: 25px;
+      line-height: 30px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4 {
+      padding-top: 40px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 45px 0 0 11px;
+      line-height: 41px;
+      font-size: 26px;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+      height: 196px;
+      width: 67px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li {
+      padding: 0 0 30px 19px;
+    }
+    .button-apra-a {
+      padding-left: 137px;
+      padding-top: 0;
+    }
+    .who-can-sec {
+      padding-bottom: 40px;
+    }
+    .eligibility_criteria {
+      padding: 20px 0 33px;
+      position: relative;
+    }
+    .bottom-bg-img img {
+      width: 216px;
+    }
+    .eligibility_criteria h3 {
+      padding: 0;
+    }
+    .menu-close.navbar-dark .navbar-toggler-icon {
+      background-image: url(../images/close-img.png);
+      width: 31px;
+      height: 23px;
+    }
+    .maint-boxdetal {
+      min-height: 584px;
+    }
+    .first-young .btn-white {
+      border: solid 2px #fff;
+      font-weight: 600;
+    }
+    .com-ul li {
+      margin-right: 13px;
+      padding: 16px;
+      min-height: auto;
+      width: 100%;
+      margin: 0 0 24px 0;
+    }
+    .slider-box h1, .height-school-sec h2, .first-young .para-bx-tt, .who-can-sec h4, .eligibility_criteria h3, .how_main h3, .how_main h3, .parer-box h4, .blue-head, .eligibility_criteria h3 {
+      font-size: 22px;
+      line-height: 30px;
+    }
+    .content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .eligibility_criteria ul li p {
+      font-size: 15px;
+      line-height: 25px;
+      font-weight: 400;
+    }
+    .how_main h3, .parer-box h4, .blue-head, .eligibility_criteria h3 {
+      margin: 40px 0 34px 0;
+    }
+    .eligibility_criteria ul li p span {
+      font-size: 40px;
+      line-height: 37px;
+    }
+    .eligibility_criteria ul li p span i {
+      font-size: 27px;
+    }
+    .mobile-img {
+      margin: -86px 0 00;
+    }
+    .blue-head, .parer-box h4 {
+      padding: 0;
+    }
+    .why_participate {
+      padding: 0 0 26px;
+    }
+    .parer-box {
+      padding-top: 0;
+    }
+    .maint-boxdetal {
+      min-height: auto;
+    }
+    .parer-box {
+      padding-bottom: 45px;
+      padding-top: 0;
+    }
+    .rigstre-btn {
+      margin: -101px 50px 0 0;
+      z-index: 0;
+      position: relative;
+    }
+    .sticky .rigstre-btn {
+      margin: 0 50px 0 0;
+    }
+    .maint-boxdetal {
+      width: 96%;
+      margin: 0 auto;
+    }
+    .team-main-box ul li, .team-main-box ul li:nth-child(3n+3) {
+      margin: 100px 20px 0;
+      width: 42%;
+      float: none;
+      display: inline-block;
+    }
+    .index-ver-two .who-can-sec h4 {
+      font-size: 25px;
+      line-height: 36px;
+    }
+    .slider-logo li {
+      width: 62px;
+      padding: 0 3px;
+    }
+    /**040221**/
+    .show-desktop {
+      display: none !important;
+    }
+    .show-mobile {
+      display: block !important;
+      text-align: center;
+      margin: 0 0 13px 0;
+    }
+    .slider-logo.show-mobile li img {
+      height: auto;
+      width: 100%;
+    }
+    .slider-logo.show-mobile li:first-child {
+      padding-left: 20px;
+    }
+    .heaing-bx-team {
+      font-size: 24px;
+    }
+    .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: -60px 47px 43px 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      float: left;
+    }
+    .header-classic.sticky .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: 0 47px 0 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      float: left;
+    }
+    .lwftimbg {
+      width: 292px;
+      float: none;
+      margin: 41px auto 0;
+      display: block;
+    }
+    .deatils_box {
+      padding-top: 21px;
+      width: 100%;
+      padding-bottom: 67px;
+    }
+    .discripbox {
+      margin-top: 41px;
+    }
+    .deskotp-img {
+      display: none;
+    }
+    .mobile-img {
+      display: block;
+    }
+    .sponseorspage .team-main-box ul li, .sponseorspage .team-main-box ul li:nth-child(3n+3) {
+      width: 28%;
+    }
+    .weekcls {
+      font-size: 20px;
+    }
+    .detailspage .parer-box h4 {
+      margin: 0 auto 20px;
+    }
+    .subhead {
+      font-size: 20px;
+    }
+    .boxcont {
+      min-height: 276px;
+      width: 46%;
+    }
+    .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3), .ytbcresult .team-main-box ul li, .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3) {
+      width: 45%;
+      margin: 10px;
+      padding: 19px 0 0 0;
+    }
+    .ytbcresult .owl-carousel .owl-item img {
+      display: block;
+      width: auto;
+      height: 513px;
+    }
+    .ytbcresult .slider-top.sliver-vtow .container {
+      top: 38%;
+    }
+    .award-main-bx .awared-main-box li {
+      width: 49%;
+      margin: 0 0 23px;
+    }
+    .award-main-bx .awared-main-box li:nth-child(2n+2) {
+      border: none;
+    }
+  }
+  @media screen and (max-width:640px) {
+    .slider-box {
+      position: relative;
+      width: 100%;
+      text-align: center;
+      overflow: hidden;
+    }
+    .slider-box img {
+      width: auto;
+      height: 500px;
+      margin: 0 0 0 -54%;
+    }
+    .content-bx {
+      margin: 29px 0 0 0;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12 h4 {
+      text-align: left;
+      margin: 0;
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12 h4 br {
+      display: none
+    }
+    .who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+      height: 108px;
+      width: 70px;
+      left: 0;
+      right: 0;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 36px 0 0 11px;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+      font-size: 20px;
+      line-height: 25px;
+    }
+    .slider-box .container {
+      top: 36%;
+    }
+    .team-main-box ul li, .team-main-box ul li:nth-child(3n+3) {
+      margin: 59px 0 0;
+      width: 100%;
+      float: none;
+      display: inline-block;
+    }
+    .team-main-box .apply-content ul li, .team-main-box .apply-content ul li:nth-child(3n+3) {
+      margin: 0 0 15px 0;
+      width: 100%;
+      float: none;
+      display: inline-block;
+    }
+    .bottom-bg-img img {
+      display: none;
+    }
+    .team-main-box ul li {
+      min-height: auto;
+    }
+    .icont-whtite li {
+      margin: 0 0 66px 0;
+    }
+    /**** new index page css ***/
+    .slider-box .slider-logo li img {
+      height: 50px;
+    }
+    .index-ver-two .rigstre-btn {
+      margin: -99px 42px 0 0;
+    }
+    .slider-logo li {
+      width: 108px;
+      padding: 0 20px;
+      text-align: center;
+      margin: 0 0 4px 0;
+    }
+    .slider-box .slider-logo li img {
+      height: auto;
+      width: 92px;
+      margin: 0 auto;
+    }
+    .index-ver-two .how_main h3, .index-ver-two .parer-box h4, .index-ver-two .blue-head, .index-ver-two .eligibility_criteria h3, .index-ver-two .first-young .para-bx-tt, .index-ver-two .project_team h4, .index-ver-two .height-school-sec h2, .most_section h3 {
+      font-size: 25px;
+    }
+    .sub-heading {
+      font-size: 21px;
+    }
+    .black_box li, .black_box li:nth-child(3n+3) {
+      width: 100%;
+      height: auto;
+      padding: 33px 14px 33px;
+      margin: 0 0 30px;
+      display: inline-block;
+      float: none;
+    }
+    .black_box li br {
+      display: none;
+    }
+    .index-ver-two .icont-whtite li, .icont-whtite li:nth-child(3n+3), .index-ver-two .icont-whtite li:last-child {
+      margin: 26px 28px 0 0;
+    }
+    .index-ver-two .first-young .btn-white {
+      margin: 26px auto 0 auto;
+    }
+    .index-ver-two .eligibility_criteria ul {
+      width: 95%;
+    }
+    .index-ver-two .eligibility_criteria ul li {
+      width: 100%;
+      display: block;
+      min-height: auto;
+    }
+    .index-ver-two .white-bg {
+      display: none;
+    }
+    .index-ver-two .button-apra-a {
+      padding-left: 36px;
+    }
+    .index-ver-two .rigstre-btn {
+      margin: 0 42px 0 0;
+    }
+    .index-ver-two .navbar-brand.top-logo img {
+      width: 100px;
+    }
+    .index-ver-two .rigstre-btn {
+      margin: -41px 52px 0 0;
+    }
+    .index-ver-two .sticky .rigstre-btn {
+      margin: 0 52px 0 0;
+    }
+    .index-ver-two .slider-box .container {
+      top: 23%;
+    }
+    .index-ver-two .down-arrow {
+      margin-top: 9px;
+    }
+    .black_box {
+      margin: 38px 0 -334px 0;
+    }
+    .index-ver-two .parer-box .owl-carousel .owl-item img {
+      max-width: -webkit-fill-available;
+      width: 124px;
+      margin: 0 auto;
+    }
+    .slider-logo li:last-child {
+      padding-right: 20px;
+    }
+    .slider-logo.show-mobile li img {
+      height: auto;
+      width: 92px;
+      margin: 0 auto;
+    }
+    #project_team, .global_ambassador {
+      width: 79%;
+      margin: 50px auto 0;
+    }
+    .slider-logo.show-mobile li {
+      width: 108px;
+      padding: 0 10px;
+      text-align: center;
+      margin: 0 0 23px 0;
+    }
+    .slider-logo.show-mobile li img {
+      height: auto;
+      width: 100%;
+      margin: 0 auto;
+    }
+    .rigstre-btn {
+      margin: 0 -14px 0 0;
+    }
+    .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: -60px 47px 43px 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      float: right;
+      right: 21px;
+      position: absolute;
+    }
+    .navbar-collapse {
+      z-index: 9;
+    }
+    .heading-bgp {
+      font-size: 23px;
+    }
+    .dateandtive {
+      margin: 18px 0 0 0;
+      font-size: 18px;
+    }
+    .registbtn {
+      padding: 6px 25px;
+      font-size: 17px;
+      border-radius: 10px 10px 0 0;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+    }
+    .dateandtive {
+      text-align: center;
+    }
+    .section-four .col-md-4.col-sm-4.col-xs-12.order-12 {
+      order: 0;
+    }
+    .section-four .col-md-4.col-sm-4.col-xs-12.order-12 img {
+      margin-bottom: 30px;
+    }
+    .section-four {
+      margin: 50px 0;
+    }
+    .sponseorspage .team-main-box ul li, .sponseorspage .team-main-box ul li:nth-child(3n+3) {
+      width: 100%;
+      margin: 20px 0;
+    }
+    .twologbox img {
+      display: inline-block;
+      width: 91px;
+      margin: 0 20px;
+    }
+    .twologbox span {
+      font-size: 27px;
+    }
+    .leftimgbooxn {
+      width: 100%;
+      display: block;
+    }
+    .contobx, .sectoindealbox.rightimg .contobx {
+      width: 100%;
+      margin: 31px 0 0 0;
+    }
+    .boxcont {
+      min-height: auto;
+      width: 100%;
+      margin: 10px 0;
+    }
+    .sponseorspage .buttonboxfa .btn-white, .mobile-img .buttonboxfa {
+      display: block;
+      margin: 0 auto 14px;
+    }
+    .buttonboxfa {
+      display: block;
+      overflow: hidden;
+      text-align: center;
+      margin: 20px 0 -30px;
+    }
+    .index-ver-two .parer-box.newsectoin h4 {
+      text-align: center;
+      display: block;
+      font-size: 16px;
+      padding: 2px 15px;
+      margin: 45px auto 36px;
+      line-height: 35px;
+    }
+    .twologbox span {
+      height: 53px;
+    }
+    .boldtex {
+      font-size: 19px;
+      line-height: 27px;
+      margin: 7px 0 0 0;
+    }
+    .normatext {
+      font-size: 22px;
+      margin: 0;
+    }
+    .boldtex {
+      font-size: 15px;
+      line-height: 23px;
+      margin: 7px 0 0 0;
+    }
+    .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3), .ytbcresult .team-main-box ul li, .ytbcresult .team-main-box ul li:nth-child(3n+3), .ytbcresult .resulteobx li, .ytbcresult .resulteobx li:nth-child(4n+4), .ytbcresult .team-main-box ul li:nth-child(3n+3), .resulteobx .team-main-box ul li, .resulteobx .team-main-box ul li:nth-child(3n+3) {
+      width: 100%;
+      margin: 3px 0;
+      padding: 19px 0 0 0;
+    }
+    .ytbcresult .owl-carousel .owl-item img.deskotp-img {
+      display: none;
+    }
+    .ytbcresult .owl-carousel .owl-item img.mobile-img {
+      display: block;
+      height: auto;
+      width: 100%;
+    }
+    .lwltext {
+      font-size: 17px;
+      margin: -4px 0 5px 0;
+    }
+  
+  #awoardfunton .itembox {
+      border: solid 3px #00c5f7;
+  
+  }}
+  @media screen and (max-width:479px) {
+    .slider-box img {
+      width: auto;
+      height: 500px;
+      margin: 0 0 0 -65%;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+      font-size: 22px;
+    }
+    .first-young p {
+      padding: 0;
+    }
+    .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx p, .content-bx p, .eligibility_criteria ul li p, .slider-box p, .maint-boxdetal.lwl-box p, .index-ver-two .com-ul li p, .text-justify, .index-ver-two .button-apra-a {
+      font-size: 14px;
+      line-height: 22px;
+    }
+    .maint-boxdetal p, .maint-boxdetal p {
+      text-align: left;
+    }
+    .button-apra-a {
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      padding: 10px 0 29px 0;
+    }
+    .eligibility_criteria ul li p span {
+      font-size: 44px;
+      display: block;
+      line-height: normal;
+      font-weight: 600;
+    }
+    .eligibility_criteria ul li {
+      padding: 15px
+    }
+    .video-main-box a img:last-child {
+      top: 31%;
+      width: 64px;
+    }
+    .how_main h3, .parer-box h4 {
+      margin: 29px 0 0 0;
+    }
+    .how_main h3 {
+      padding: 0 0 9px 0;
+    }
+    .how_main {
+      padding: 0 0 48px;
+    }
+    .parer-box h4 {
+      margin: 27px 0 0 0;
+      padding: 0;
+    }
+    .parer-box .owl-carousel .owl-item {
+      text-align: center;
+    }
+    .parer-box .owl-carousel .owl-item img {
+      display: block;
+      width: 85%;
+    }
+    .parer-box {
+      padding-bottom: 50px;
+    }
+    .contact-us-bx ul {
+      margin: 36px 0 35px 0;
+      padding: 0;
+      list-style: none;
+    }
+    .copy-right-text {
+      color: #fff;
+      text-align: center;
+      font-size: 12px;
+      text-transform: uppercase;
+      background: #000;
+      padding: 18px 0 14px;
+      margin: 0;
+    }
+    .who-can-sec {
+      padding-bottom: 31px;
+    }
+    .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li {
+      padding: 0 0 15px 40px;
+    }
+    .eligibility_criteria ul li {
+      padding: 15px 15px 7px 15px;
+    }
+    .mobile-img {
+      margin: 0;
+    }
+    .com-ul li img {
+      width: 75px;
+    }
+    .heading-blu br {
+      display: none;
+    }
+    .com-ul li .heading-blu {
+      margin: 9px 0 23px 0;
+    }
+    .header-classic .container, .header-classic .container-lg, .header-classic .container-md, .header-classic .container-sm, .header-classic .container-xl {
+      max-width: inherit;
+    }
+    .smal0hedm, .content-bx p, .first-young p {
+      text-align: left;
+    }
+    /**** new index page css ***/
+    .index-ver-two .how_main h3, .index-ver-two .parer-box h4, .index-ver-two .blue-head, .index-ver-two .eligibility_criteria h3, .index-ver-two .first-young .para-bx-tt, .index-ver-two .project_team h4, .index-ver-two .height-school-sec h2, .most_section h3, .who-can-sec .col-md-4.col-sm-4.col-xs-12 h4, .headt-styewo {
+      font-size: 22px;
+    }
+    .index-ver-two .eligibility_criteria .bg-img {
+      display: block;
+      margin: -46px 0 0 0;
+    }
+    .index-ver-two .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+      padding: 0 0 0 11px;
+    }
+    .index-ver-two .why_participate {
+      padding: 0 0 18px;
+    }
+    .index-ver-two .parer-box h4 {
+      margin: 40px 0 0 0;
+      padding: 0 0 20px 0;
+    }
+    .index-ver-two .parer-box.wow {
+      padding: 0 0 27px;
+    }
+    .index-ver-two .project_team {
+      padding: 25px 0 0;
+    }
+    footer h3 {
+      margin: 28px 0 15px 0;
+    }
+    .slider-logo li {
+      width: 94px;
+      padding: 0 20px;
+      text-align: center;
+      margin: 0 0 4px 0;
+    }
+    .slider-logo li:last-child {
+      padding-right: 0px;
+    }
+    .slider-logo.show-mobile li {
+      width: 97px;
+      padding: 0 10px;
+      text-align: center;
+      margin: 0 0 23px 0;
+    }
+    .header-classic.sticky .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: 41px 47px 43px 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      float: right;
+      right: 21px;
+      position: absolute;
+    }
+    .sticky .rigstre-btn {
+      margin: 0 150px 0 0;
+    }
+    .left-img-lwl img {
+      width: 195px;
+    }
+    .heading-bgp {
+      font-size: 20px;
+      text-align: center;
+    }
+    .topbiname, .wordhead {
+      font-size: 17px;
+    }
+    .detailspage .parer-box h4 {
+      margin: 0 auto 20px;
+      font-size: 19px;
+    }
+    .subhead {
+      font-size: 15px;
+      margin: -18px 0 12px 0;
+    }
+    .detailspage .parer-box {
+      padding-bottom: 32px;
+      padding-top: 24px;
+    }
+    .sectoindealbox {
+      margin: 25px 0;
+    }
+    .headtop {
+      font-size: 24px;
+      line-height: 30px;
+    }
+    .normatext {
+      font-size: 28px;
+      margin: 0;
+    }
+    .ytbcresult .resulteobx li.twolink, .ytbcresult .resulteobx li.twolink:nth-child(4n+4), .ytbcresult .team-main-box ul li, .ytbcresult .team-main-box ul li:nth-child(3n+3) {
+      padding: 19px 0 0 0;
+      margin: 5px 0;
+    }
+    .boldtex {
+      font-size: 15px;
+      line-height: 25px;
+      margin: 7px 0 0 0;
+    }
+    .normatext {
+      font-size: 22px;
+      margin: 0;
+    }
+  }
+  @media screen and (max-width:440px) {
+    .slider-box img {
+      width: auto;
+      height: 659px;
+      margin: 0 0 0 -638px;
+    }
+    .slider-box h1 {
+      font-size: 28px;
+    }
+    .btn-white {
+      font-size: 14px;
+      padding: 4px 13px 2px;
+      border: 2px solid;
+      margin: 20px auto 0;
+    }
+    footer h3 {
+      color: #fff;
+      font-size: 24px;
+      font-weight: 500;
+      margin: 14px 0 15px 0;
+    }
+    .parer-box .owl-carousel .owl-item img {
+      display: block;
+      width: 82%;
+    }
+    .rigstre-btn {
+      margin: -43px 42px 0 0;
+      font-size: 16px;
+      position: absolute;
+      right: 19px;
+    }
+    .navbar-brand.top-logo {
+      width: 100px;
+    }
+    .navbar-brand.top-logo img {
+      width: 100%;
+    }
+    .icont-whtite li {
+      margin: 0 6px 57px 6px;
+    }
+    .com-ul li img {
+      display: block;
+      margin: 0 auto;
+      width: 83px;
+    }
+    .com-ul li .heading-blu {
+      color: #00a2ff;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 19px;
+      margin: 11px 0 25px 0;
+      overflow: hidden;
+      display: block;
+    }
+    /**** new index page css ***/
+    .slider-box .slider-logo li img {
+      width: 100%;
+    }
+    .most_section h3 br {
+      display: none;
+    }
+    .icont-whtite {
+      margin: 0;
+      padding: 0;
+      padding-bottom: 50px;
+    }
+    #project_team, .global_ambassador {
+      width: 77%;
+      margin: 10px auto 0;
+    }
+    .left-img-lwl img {
+      max-width: 135px;
+      width: 100%;
+    }
+    .contact-us-bx .email-conatct a {
+      word-break: break-all;
+      font-size: 14px;
+    }
+    .slider-box h1 {
+      font-size: 21px;
+    }
+    .slider-logo li {
+      width: 115px;
+      padding: 0 10px;
+      text-align: center;
+      margin: 0 0 1px;
+    }
+    .slider-logo.show-mobile li img {
+      width: 100%;
+    }
+    .index-ver-two .slider-box .container {
+      top: 20%;
+    }
+    .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: 47px 0 0 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      float: right;
+      position: absolute;
+      right: 0;
+    }
+    .sticky .rigstre-btn {
+      margin: 0 140px 0 0;
+      padding: 3px 17px;
+    }
+    .sticky .rigstre-btn.howapply {
+      font-size: 10px;
+      margin: 0 0 0 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      float: right;
+      position: absolute;
+      right: 65px;
+    }
+    .leftbox-ig {
+      width: 100%;
+    }
+    .leftrx-up {
+      margin: 14px 0 0 0;
+      width: 100%;
+      min-height: auto;
+    }
+    .sponseorspage .team-main-box ul.upcomingul li {
+      border-bottom: solid 1px #00b8ad;
+      padding-bottom: 24px;
+    }
+    .sponseorspage .team-main-box ul.upcomingul li:last-child {
+      border: none;
+    }
+  }
+  @media screen and (max-width:380px) {
+    .slider-box h1 {
+      font-size: 21px;
+    }
+    .lwltext {
+      font-size: 14px;
+      margin: -4px 0 5px 0;
+    }
+    .height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+      font-size: 25px;
+    }
+    .maint-boxdetal {
+      width: 96%;
+      margin: 0 auto;
+    }
+    .rigstre-btn {
+      padding: 4px 10px;
+    }
+    .icont-whtite li {
+      height: 122px;
+      width: 122px;
+    }
+    .sticky .rigstre-btn {
+      margin: 0 140px 0 0;
+      padding: 3px 8px;
+    }
+  }
+  @media screen and (max-width:359px) {}
+  @media screen and (max-width:320px) {}
