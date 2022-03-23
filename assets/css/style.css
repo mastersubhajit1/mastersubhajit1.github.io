@@ -78,7 +78,7 @@ h1 {
 }
 
 mark {
-    background: #ff0;
+    background: #ffad02;
     color: #000
 }
 
@@ -3282,7 +3282,7 @@ figcaption {
 .button {
     padding: 20px 32px;
     border-radius: 8px;
-    background-color: #e75b38;
+    background-color: #ffad02;
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
     font-size: 16px;
@@ -9761,7 +9761,7 @@ figcaption {
 
 .nav-title {
     margin-bottom: 10px;
-    color: #e65b38;
+    color: #ffad02;
     font-size: 18px;
     line-height: 24px;
 }
@@ -10029,7 +10029,7 @@ figcaption {
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 8px;
-    background-color: #e65b38;
+    background-color: #ffad02;
     line-height: 24px;
 }
 
@@ -11197,7 +11197,7 @@ figcaption {
     }
     .nav-text {
         margin-bottom: 3px;
-        color: #e65b38;
+        color: #ffad02;
         font-size: 16px;
     }
     .nav-link-detail {
