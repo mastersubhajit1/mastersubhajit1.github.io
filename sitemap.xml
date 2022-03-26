@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://startups.courses/</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://startups.courses/courses.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/mentorship.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/workshop.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/intern.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/about.html</loc>
+  <lastmod>2022-03-25T17:18:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/contact.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/login.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/register.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/index.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/enroll.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/partner.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/password-reset.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/website-T&amp;C.pdf</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/changelog.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/page2.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://startups.courses/page3.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+<loc>https://certificate.startups.courses/</loc>
+<lastmod>2022-03-26T07:53:27+00:00</lastmod>
+</url>
+
+</urlset>
