@@ -45,7 +45,7 @@
             <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease"
                 data-easing2="ease" role="banner" class="navigation-mob w-nav">
                 <div class="wrapper navbar-wrapper">
-                    <a href="index.html" class="brand w-nav-brand"><img
+                    <a href="index" class="brand w-nav-brand"><img
                             src="https://startups.courses/assets/img/logo-white.jpeg" loading="lazy" alt=""
                             class="image contain" /></a>
                 </div>
@@ -82,7 +82,7 @@
                         <div id="form-alerts" style="text-align:center;"></div>    
                         <div class="form-text-block-16px">
                             <span class="white-text-opacity-50">Already have enrolled ?</span>
-                            <a href="contact.html" class="register-link">Contact Us</a>
+                            <a href="contact" class="register-link">Contact Us</a>
                         </div>
                     </form>
                     
@@ -145,8 +145,8 @@
         form.addEventListener("submit", (e) => {
             e.preventDefault();
             fetch(scriptURL, { method: "POST", body: new FormData(form) })
-            .then(response => $("#form-alerts").html("<div class='alert alert-success'>Thank you! Your submission has been received!</div>"))
-            .catch(error => $("#form-alerts").html("<div class='alert alert-danger'>Oops! Something went wrong while submitting the form.</div>"))
+            .then(response => $("#form-alerts")("<div class='alert alert-success'>Thank you! Your submission has been received!</div>"))
+            .catch(error => $("#form-alerts")("<div class='alert alert-danger'>Oops! Something went wrong while submitting the form.</div>"))
         });
     </script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
