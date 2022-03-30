@@ -94,6 +94,86 @@
 <url>
 <loc>https://certificate.startups.courses/</loc>
 <lastmod>2022-03-26T07:53:27+00:00</lastmod>
+</url>  
+<url>
+  <loc>https://startups.courses/courses</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://startups.courses/mentorship</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/workshop</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/intern</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/about</loc>
+  <lastmod>2022-03-25T17:18:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/contact</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<!--<url>
+  <loc>https://startups.courses/login.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/register.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>-->
+<url>
+  <loc>https://startups.courses/index</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/enroll</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/partner</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<!--<url>
+  <loc>https://startups.courses/password-reset.html</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>-->
+<url>
+  <loc>https://startups.courses/website-T&amp;C.pdf</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/changelog</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://startups.courses/page2</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://startups.courses/page3</loc>
+  <lastmod>2022-03-25T17:18:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>    
 
 </urlset>
